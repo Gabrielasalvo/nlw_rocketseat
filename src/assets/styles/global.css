@@ -48,6 +48,7 @@ button,
 textarea {
     font-family: 500 1.6rem Poppins;
     -webkit-font-smoothing: antialiased;
+    color:var(--color-text-base)
 }
 
 .container {
